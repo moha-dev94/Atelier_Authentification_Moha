@@ -2,4 +2,3 @@ AuthName "Accès protégé"
 AuthType Basic
 AuthUserFile /home/ennadifi/www/atelier1/.htpasswd
 Require valid-user
-$ htpasswd -c .htpasswd <admin>
